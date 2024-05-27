@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=rkfranco&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Philips e estudando Ciência da Computação na FURB<br/> Eu sou desenvolvedor Java'</p>
+<p>Trabalhando na Philips<br/> Estudando Ciência da Computação na FURB<br/> Eu sou desenvolvedor Java</p>
