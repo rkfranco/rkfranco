@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=rkfranco&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p> Estágiario de desenvolvimento de software na Philips<br/> Estudando Ciência da Computação na FURB<br/> Desenvolvedor Java</p>
+<p> Desenvolvedor de software na Senior Sistemas<br/> Estudando Ciência da Computação na FURB<br/> Desenvolvedor Java</p>
 
 <a href="https://www.linkedin.com/in/rodrigo-kapulka-franco-55b633245/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
